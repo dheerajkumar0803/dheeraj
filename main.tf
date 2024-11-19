@@ -4,6 +4,6 @@ resource "azurerm_resource_group" "example" {
 }
 
 resource "azurerm_resource_group" "file1" {
-  name     = "dheeraj1"
-  location = "west india"
+  name     = "devops"
+  location = "canada east"
 }
